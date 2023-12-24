@@ -1,4 +1,4 @@
-const form = document.querySelector("contactForm");
+const form = document.querySelector("form");
 const fullName = document.getElementById("name");
 const emailAddress = document.getElementById("email");
 const phoneNumber = document.getElementById("phone");
